@@ -1,0 +1,44 @@
+{
+  "name": "theme-sunburst",
+  "displayName": "myTheme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "RyanB",
+  "engines": {
+    "vscode": "^1.10.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Humble",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Humble.tmTheme"
+      },
+      {
+        "label": "Sunburst - RB",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunburst - rb.tmTheme"
+      },
+      {
+        "label": "Tomorrow Night Eighties",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tomorrow_Night_Eighties.tmTheme"
+      },
+      {
+        "label": "Tomorrow Night",
+        "path": "./themes/Tomorrow_Night.tmTheme"
+      },
+      {
+        "label": "Tomorrow Night Bright",
+        "path": "./themes/Tomorrow_Night_Bright.tmTheme"
+      },
+      {
+        "label": "Tomorrow Night Blue - Custom",
+        "path": "./themes/Tomorrow_Night_Blue.tmTheme"
+      }
+    ]
+  }
+}  
