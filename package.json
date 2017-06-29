@@ -4,6 +4,10 @@
   "description": "",
   "version": "0.0.2",
   "publisher": "RyanB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbenson/my-vsc-themes.git"
+  },
   "engines": {
     "vscode": "^1.10.0"
   },
