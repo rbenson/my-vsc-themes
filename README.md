@@ -1,13 +1,10 @@
 # README
-## This is the README for your extension "theme-sunburst"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Themes I added to VS Code:
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- Humble
+- Sunburst, theme I first used in ST, and modified
+- Tomorrow Night
+- Tomorrow Night - Blue, customized the background, it will display as `Tomorrow Night Blue - Custom` so the default is still available
+- Tomorrow Night - Bright
+- Tomorrow Night - Eighties
